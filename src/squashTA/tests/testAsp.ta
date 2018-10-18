@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI sahi-testAsp.sah ON cible USING sahiConf.properties

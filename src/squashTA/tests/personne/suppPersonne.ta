@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI Personne/sahi-suppPersonne.sah ON cible USING sahiConf.properties

@@ -1,0 +1,6 @@
+_click(_link("Personne"));
+_click(_link("Create New"));
+_setValue(_numberbox("id"), "1");
+_setValue(_textbox("nom"), "jaona");
+_setValue(_numberbox("age"), "22");
+_click(_submit("Create"));

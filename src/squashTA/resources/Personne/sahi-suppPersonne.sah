@@ -1,0 +1,3 @@
+_click(_link("Personne"));
+_click(_link("Delete"));
+_click(_submit("Delete"));

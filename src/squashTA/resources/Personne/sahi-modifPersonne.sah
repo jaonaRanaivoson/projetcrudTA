@@ -1,0 +1,5 @@
+_click(_link("Personne"));
+_click(_link("Edit"));
+_setValue(_textbox("nom"), "ranja");
+_setValue(_numberbox("age"), "22");
+_click(_submit("Save"));

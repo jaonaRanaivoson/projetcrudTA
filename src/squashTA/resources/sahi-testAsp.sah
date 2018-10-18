@@ -1,0 +1,3 @@
+_click(_link("À propos de"));
+_click(_link("Contact"));
+_click(_link("Accueil"));
